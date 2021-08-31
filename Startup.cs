@@ -44,6 +44,7 @@ namespace AspNetSandbox
             app.UseDefaultFiles();
             app.UseStaticFiles();
 
+
             app.UseRouting();
 
             app.UseAuthorization();
